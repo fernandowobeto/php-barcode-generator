@@ -27,14 +27,14 @@
 //
 // See LICENSE.TXT file for more information.
 
-namespace Picqer\Barcode;
+namespace Wobeto\Barcode;
 
-use Picqer\Barcode\Exceptions\BarcodeException;
-use Picqer\Barcode\Exceptions\InvalidCharacterException;
-use Picqer\Barcode\Exceptions\InvalidCheckDigitException;
-use Picqer\Barcode\Exceptions\InvalidFormatException;
-use Picqer\Barcode\Exceptions\InvalidLengthException;
-use Picqer\Barcode\Exceptions\UnknownTypeException;
+use Wobeto\Barcode\Exceptions\BarcodeException;
+use Wobeto\Barcode\Exceptions\InvalidCharacterException;
+use Wobeto\Barcode\Exceptions\InvalidCheckDigitException;
+use Wobeto\Barcode\Exceptions\InvalidFormatException;
+use Wobeto\Barcode\Exceptions\InvalidLengthException;
+use Wobeto\Barcode\Exceptions\UnknownTypeException;
 
 abstract class BarcodeGenerator
 {

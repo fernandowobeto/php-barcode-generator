@@ -1,5 +1,5 @@
 <?php
 
-namespace Picqer\Barcode\Exceptions;
+namespace Wobeto\Barcode\Exceptions;
 
 class InvalidLengthException extends BarcodeException {}

@@ -1,6 +1,6 @@
 <?php
 
-namespace Picqer\Barcode;
+namespace Wobeto\Barcode;
 
 class BarcodeGeneratorSVG extends BarcodeGenerator
 {
